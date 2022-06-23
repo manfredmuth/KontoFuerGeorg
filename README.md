@@ -1,0 +1,2 @@
+# KontoFuerGeorg
+Kontodaten fuer Georg
